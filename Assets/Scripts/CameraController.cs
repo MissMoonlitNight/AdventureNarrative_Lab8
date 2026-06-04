@@ -11,7 +11,7 @@ public class CameraController : MonoBehaviour
     [Header("Настройки переключения")]
     public float transitionSpeed = 4f;
 
-    [Header("Настройки DOF (Этап 8)")]
+    [Header("Настройки DOF ")]
     public PostProcessVolume postProcessVolume;
 
     private bool isFixedMode = false;
